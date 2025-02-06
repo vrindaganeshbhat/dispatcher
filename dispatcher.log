@@ -1,0 +1,3 @@
+2025-02-06 00:00:55,932 - __main__ - ERROR - Email processing error: command SELECT illegal in state NONAUTH
+2025-02-06 00:02:01,203 - __main__ - ERROR - Email processing error: command SELECT illegal in state NONAUTH
+2025-02-06 00:03:06,481 - __main__ - ERROR - Email processing error: command SELECT illegal in state NONAUTH
